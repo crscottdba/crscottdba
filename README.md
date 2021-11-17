@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @crscottdba
-- 👀 I’m interested in 42
-- 🌱 I’m currently learning Cloud Platform Engineering
 - �- 📫 How to reach me crscott@outlook.com
 
 <!---
